@@ -26,5 +26,14 @@
 /*kuro#4682*/
 [user_by_bdfdb*="330275324610871318"],
 [aria-label*="254362351170617345,"] {
-	--user-background: url('https://66.media.tumblr.com/8303e4b133ce65c8450ae73c4fd250a1/tumblr_oa8agt4KLA1tvo2c3o1_540.gifv');
+	--user-background: url('https://i.pinimg.com/originals/21/56/db/2156db08e3f23192ce67df4b25817844.gif');
+}
+/*AssCleaver#9632*/
+[user_by_bdfdb*="320342856512307200"],
+[aria-label*="254362351170617345,"] {
+	--user-background: url('https://media.tenor.com/images/6b87c064eefa3d6431c23c83a96669c6/tenor.gif');
+}/*Pybrah#3244*/
+[user_by_bdfdb*="327832980095762432"],
+[aria-label*="254362351170617345,"] {
+	--user-background: url('https://media.giphy.com/media/l0HUi1Dgy4OikRos0/giphy.gif');
 }
