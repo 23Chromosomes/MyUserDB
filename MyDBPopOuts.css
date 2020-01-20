@@ -27,7 +27,7 @@
 [user_by_bdfdb*="330275324610871318"],
 [aria-label*="254362351170617345,"] {
 	--user-background: url('https://i.pinimg.com/originals/21/56/db/2156db08e3f23192ce67df4b25817844.gif');
-	background-position: right;
+	--user-popout-position: right;
 }
 /*AssCleaver#9632*/
 [user_by_bdfdb*="320342856512307200"],
