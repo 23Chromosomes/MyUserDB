@@ -44,3 +44,8 @@
 [aria-label*="254362351170617345,"] {
 	--user-background: url('https://media.giphy.com/media/Up1Xga4FDnXRP0Nxvs/giphy.gif');
 }
+/*mr.apple#4693*/
+[user_by_bdfdb*="298456005317099521"],
+[aria-label*="254362351170617345,"] {
+	--user-background: url('https://acegif.com/wp-content/gifs/apple-66.gif');
+}
