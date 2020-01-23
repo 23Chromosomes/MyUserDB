@@ -254,7 +254,7 @@
     color: var(--ChannelsSelectedTextColor)!important;
 }
 .childWrapper-anI2G9 {
-    background-image: url("https://i.imgur.com/ucmDGCh.png")!important;
+    background-image: var(--main-HomeButton-image)!important;
     background-position: center!important;
     background-size: 96%!important;
 	background-repeat: no-repeat!important;
