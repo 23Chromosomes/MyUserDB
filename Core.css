@@ -1154,3 +1154,6 @@ background-color: rgba(0,0,0,0.5)!important;
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
     background: var(--main-Gradient-color);
 }
+.selected-3s45Ha.item-PXvHYJ, .selected-3s45Ha.item-PXvHYJ:hover {
+    background: var(--main-Gradient-color)!important;
+}
