@@ -617,6 +617,7 @@ background: transparent!important;
 }
 .sidebarRegion-VFTUkN {
 	background: rgba(0,0,0,0.5);
+	border-radius: 5px;
 }
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
     background: linear-gradient(-45deg, rgba(86,32,183,1), rgba(26,49,179,1)) !important;
@@ -1152,4 +1153,7 @@ background-color: rgba(0,0,0,0.5)!important;
 }
 .container-3Mxszk {
     background-color: rgba(0,0,0,0.5);
+}
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background: var(--main-Gradient-color);
 }
