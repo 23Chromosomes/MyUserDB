@@ -294,7 +294,7 @@
 /*------Background------*/
 /*-Colors/Transparancy-*/
 .theme-dark{
-	--background-primary: rgba(0,0,0,0);
+    --background-primary: rgba(0,0,0,0);
     --background-secondary: rgba(0,0,0,0);
     --background-tertiary: rgba(0,0,0,0);
     --background-accent: rgba(0,0,0,0);
@@ -378,7 +378,7 @@ background: transparent!important;
 /*-END-*/
 /*-EmbedsExampleIsYoutubeLinks-*/
 .embedFull-2tM8-- {
-  border-color: rgb(103,58,183)!important;
+  border-color: var(--main-Solid-color)!important;
 }
 .grid-1nZz7S {
     background: rgba(0,0,0,0.5);
@@ -601,7 +601,7 @@ background: transparent!important;
     stroke: rgba(46, 2, 123);
 }
 .layer-3QrUeG[aria-label*="SETTINGS"] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .wrapper-1u09nF[role="progressbar"] circle:last-child {
-    stroke: rgba(63,81,181,1)!important;
+    stroke: var(--Slider-colorBackgr)!important;
 }
 .layers-3iHuyZ > .layer-3QrUeG:nth-child(2) {
     width: 90%;
@@ -620,7 +620,7 @@ background: transparent!important;
 	border-radius: 5px;
 }
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-    background: linear-gradient(-45deg, rgba(86,32,183,1), rgba(26,49,179,1)) !important;
+    background: var(--Extra-Gradient)!important;
 }
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
     background: var(--main-Gradient-color);
@@ -631,8 +631,8 @@ background: transparent!important;
 	background: var(--main-Gradient-color);
 }
 .lookOutlined-3sRXeN.colorBrand-3pXr91:hover {
-    background: linear-gradient(-45deg, rgba(86,32,183,1), rgba(26,49,179,1)) !important;
-	border-color: rgba(0,0,0,0.1);
+    background: var(--Extra-Gradient)!important;
+    border-color: rgba(0,0,0,0.1);
 }
 .themeClear-1EjkE4.valueUnchecked-2lU_20 {
         background: var(--secondary-Gradient-color);
@@ -753,10 +753,10 @@ background-color: rgba(0,0,0,0.5)!important;
     background: rgba(250,166,26,.1);
 }
 .theme-dark .isMentioned-N-h9aa {
-    background: linear-gradient(-45deg, rgba(103,58,183,0.2), rgba(63,81,181,0.2)) !important;
+    background: background: var(--main-Gradient-colorAlphaMentioned)!important;
 }
 .isMentionedCozy-3isp7y:after {
-    background: linear-gradient(-45deg, rgba(103,58,183,0.3), rgba(63,81,181,0.3)) !important;
+    background: background: var(--main-Gradient-colorAlphaMentioned2)!important;
     border-left: 4px solid var(--main-Solid-color)!important;
 }
 .markup-2BOw-j code {
@@ -803,7 +803,7 @@ background-color: rgba(0,0,0,0.5)!important;
     background: var(--main-Gradient-color);
 }
 .theme-dark .popoutContainer-3WC9HR:hover {
-    background: linear-gradient(-45deg, rgba(103,58,183,0.5), rgba(63,81,181,0.5)) !important;
+    background: var(--main-Gradient-colorAlpha2) !important;
 	border-radius: 5px;
 }
 .theme-dark .tier1Banner-1BTgv0 {
@@ -837,12 +837,12 @@ background-color: rgba(0,0,0,0.5)!important;
 	-webkit-box-shadow: inset 0px 0px 0px 900px rgba(0,0,0,0.8);
 }
 .top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ, .top-28JiJ- .themed-OHr7kt.item-PXvHYJ:active {
-    border-bottom: 3px solid rgb(103,58,183,1);
+    border-bottom: 3px solid var(--main-Solid-color);
 	border-radius: 3px;
 	background: rgba(0,0,0,0)!important;
 }
 .top-28JiJ- .themed-OHr7kt.item-PXvHYJ:hover {
-	border-bottom: 3px solid rgb(103,58,183,1);
+	border-bottom: 3px solid var(--main-Solid-color);
 	border-radius: 3px;
 	background: rgba(0,0,0,0)!important;
 }
@@ -867,7 +867,7 @@ background-color: rgba(0,0,0,0.5)!important;
     background: var(--main-Gradient-color);
 }
 .headerSpotify-zpWxgT {
-    background: linear-gradient(-45deg, rgba(48, 188, 169,1), rgba(18, 211, 52,1)) !important;
+    background: var(--main-Gradient-colorSpotify);
 }
 .tabBar-2MuP6- {
     height: 30px;
@@ -1031,7 +1031,7 @@ background-color: rgba(0,0,0,0.5)!important;
     background: var(--main-Gradient-color);
 }
 .css-1rckt42-menu {
-    background: linear-gradient(-45deg, rgba(103,58,183,0.8), rgba(63,81,181,0.8)) !important;
+    background: var(--main-Gradient-colorAlpha) !important;
 }
 .theme-dark .card-3DjzTQ, .theme-dark .cardPlaceholder-1zrbbe {
     background: var(--main-Gradient-color);
