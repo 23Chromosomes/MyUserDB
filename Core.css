@@ -1,3 +1,8 @@
+
+root: {
+	--main-bg-image: url(https://i.imgur.com/uWKuuz6.jpg)!important;
+}
+
 .userPopout-3XzG_A .wrapper-3t9DeA::after {
 	content: ''!important;
 	position: fixed!important;
