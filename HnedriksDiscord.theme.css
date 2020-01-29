@@ -1,0 +1,47 @@
+/**
+ * @name Hendrik's Discord Theme
+ * @author Hendrik
+ * @version 2.0
+ * @description Look trough theme with custom colors and background.
+*/
+
+/*Gebruikers custom pop-outs.*/
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
+/*Settings Box*/
+@import url("https://hendrik379.github.io/MyUserDB/SettingsModal.css");
+/*DB VOOR user pop-outs.*/
+@import url('https://hendrik379.github.io/MyUserDB/MyDBPopOuts.css');
+/*Custom Discord settings icons.*/
+@import url('https://hendrik379.github.io/MyUserDB/SettingsIcons.css');
+/*Core css Discord.*/
+@import url('https://hendrik379.github.io/MyUserDB/Core.css');
+
+/*Change Images BG/HomeIcon*/
+:root {
+  --main-bg-image: url(https://i.imgur.com/oe6mKRd.png);
+  --main-HomeButton-image: url(https://i.imgur.com/ucmDGCh.png);
+  /* https://i.imgur.com/ucmDGCh.png Purple*/
+  /* https://i.imgur.com/rpB4YIH.png Green*/
+  /* https://i.imgur.com/otN0MY7.png Red*/
+  /* https://i.imgur.com/DBlxJDP.png Blue*/
+  /* https://i.imgur.com/uXBfH56.png Yellow*/
+/*Change Colors*/
+  --main-Gradient-color: linear-gradient(-45deg, rgba(103,58,183,1), rgba(63,81,181,1)) !important;
+  --secondary-Gradient-color: linear-gradient(-45deg, rgba(52, 7, 132,1), rgba(42, 0, 68,1)) !important;
+  --main-Solid-color: rgba(103,58,183,1) !important;
+  --main-Gradient-colorAlpha: linear-gradient(-45deg, rgba(103,58,183,0,8), rgba(63,81,181,0,8)) !important;
+  --main-Gradient-colorAlpha2: linear-gradient(-45deg, rgba(103,58,183,0.5), rgba(63,81,181,0.5)) !important;
+  --main-Gradient-colorSpotify: linear-gradient(-45deg, rgba(48, 188, 169,1), rgba(18, 211, 52,1)) !important;
+/*@PERSON Color*/
+  --main-Gradient-colorAlphaMentioned: linear-gradient(-45deg, rgba(103,58,183,0.2), rgba(63,81,181,0.2)) !important;
+  --main-Gradient-colorAlphaMentioned2: linear-gradient(-45deg, rgba(103,58,183,0.3), rgba(63,81,181,0.3)) !important;
+/*Volume slider*/
+  --Slider-colorBackgr: rgba(63,81,181,1) !important;
+  --Extra-Gradient: linear-gradient(-45deg, rgba(86,32,183,1), rgba(26,49,179,1)) !important;
+/*Gradients for when I forget stuff*/
+  --Extra-Gradient2: linear-gradient(-45deg, rgba(103,58,183,1), rgba(63,81,181,1)) !important;
+  --Extra-Gradient3: linear-gradient(-45deg, rgba(103,58,183,1), rgba(63,81,181,1)) !important;
+  --Extra-Solid: rgba(103,58,183,1) !important;
+  --Extra-Solid2: rgba(103,58,183,1) !important;
+  --Extra-SolidAlpha: rgba(103,58,183,1) !important;
+}
