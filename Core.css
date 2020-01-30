@@ -1176,3 +1176,6 @@ background-color: rgba(0,0,0,0.5)!important;
 .theme-dark .inset-3sAvek {
     background-color: rgba(0,0,0,0.5);
 }
+.theme-dark .popout-13LQ_3 {
+    background: var(--main-Gradient-color)!important;
+}
