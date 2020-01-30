@@ -786,11 +786,11 @@ background-color: rgba(0,0,0,0.5)!important;
 	color: white !important;
 }
 .item-PXvHYJ[style*="background-color: rgba(67, 181, 129, 0.2);"] {
-	background: var(--main-Gradient-color);
+	background: var(--main-Gradient-color)!important;
 }
 .item-PXvHYJ[style*="background-color: rgb(67, 181, 129);"] {
-	background: var(--main-Gradient-color);
-	box-shadow: inset 0px 0px 0px 400px rgba(0,0,0,0);
+	background: var(--main-Gradient-color)!important;
+	box-shadow: inset 0px 0px 0px 200px rgba(0,0,0,0.5)!important;
 }
 .outer-2IVh5n {
 	background: rgba(0,0,0,0.5);
