@@ -1169,3 +1169,6 @@ background-color: rgba(0,0,0,0.5)!important;
 .theme-dark .option-96V44q:after {
     background: rgba(0,0,0,0)!important;
 }
+.peopleListItem-2nzedh:hover {
+    background: rgba(0,0,0,0.5);
+}
