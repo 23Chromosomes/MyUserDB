@@ -49,3 +49,8 @@
 [aria-label*="254362351170617345,"] {
 	--user-background: url('https://media3.giphy.com/media/TcdpZwYDPlWXC/giphy.gif');
 }
+/*AlwaysJort#8437 AKA GAY*/
+[user_by_bdfdb*="615163682208612355"],
+[aria-label*="254362351170617345,"] {
+	--user-background: url('https://media2.giphy.com/media/d1Gv2hiFckqPHFjG/giphy.gif');
+}
