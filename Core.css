@@ -742,9 +742,9 @@ background-color: rgba(0,0,0,0.5)!important;
 }
 .modeSelected-1zApJ_ .content-3at_AU, .modeSelected-1zApJ_:hover .content-3at_AU {
 	background: rgba(0,0,0,0.55);
-	-webkit-box-shadow: inset 4px 0px 0px 0px rgb(103,58,183,1);
-	-moz-box-shadow: inset 4px 0px 0px 0px rgb(103,58,183,1);
-	box-shadow: inset 4px 0px 0px 0px rgb(103,58,183,1);
+	-webkit-box-shadow: inset 4px 0px 0px 0px var(103,58,183,1);
+	-moz-box-shadow: inset 4px 0px 0px 0px var(--main-Solid-color);
+	box-shadow: inset 4px 0px 0px 0px var(--main-Solid-color);
 }
 .wrapper-1ucjTd:hover .content-3at_AU {
     background: rgba(0,0,0,0.3)!important;
