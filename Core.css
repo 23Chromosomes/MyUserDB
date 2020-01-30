@@ -783,7 +783,9 @@ background-color: rgba(0,0,0,0.5)!important;
 	box-shadow: inset 0px 0px 0px 200px rgba(0,0,0,0);
 }
 .item-PXvHYJ[style*="color: rgb(67, 181, 129);"] {
-	color: white!important;
+	color: white !important;
+}
+.item-PXvHYJ[style*="background-color: rgba(67, 181, 129, 0.2);"] {
 	background: var(--secondary-Gradient-color);
 }
 .outer-2IVh5n {
