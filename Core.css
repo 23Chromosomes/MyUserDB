@@ -1186,3 +1186,27 @@ background-color: rgba(0,0,0,0.5)!important;
 .theme-dark .popout-13LQ_3 {
     background: var(--main-Gradient-color)!important;
 }
+.theme-dark .searchResultsWrap-2DKFzt {
+    background: var(--secondary-Gradient-color)!important;
+}
+.theme-dark .searchResult-3pzFAB .hit-NLlWXA {
+    background: var(--main-Gradient-color)!important;
+    -webkit-box-shadow: 0 0 10px 6px var(--main-Gradient-color)!important;
+    box-shadow: 0 0 10px 6px var(--main-Gradient-color)!important;
+}
+.searchResult-3pzFAB:before {
+    opacity: 0;
+}
+.searchResult-3pzFAB:after {
+    opacity: 0;
+}
+.theme-dark .searchHeader-1l-wpR {
+    background: var(--main-Gradient-color)!important;
+	box-shadow: 0px 1px 10px 0px rgb(0, 0, 0);
+}
+.theme-dark .channelSeparator-1X1FuH .channelName-1QajIf {
+    background: transparent!important;
+}
+.theme-dark .focused-2bY0OD {
+    background-color: rgba(0,0,0,0.5);
+}
