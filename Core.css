@@ -1218,7 +1218,9 @@ background-color: rgba(0,0,0,0.5)!important;
 }
 .mentioned-xhSam7 {
     background: var(--main-Gradient-colorAlphaMentioned);
+    border-radius: 10px;
 }
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode .mentioned-xhSam7:hover {
     background: var(--main-Gradient-colorAlphaMentioned);
+    border-radius: 10px;
 }
