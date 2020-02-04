@@ -1213,3 +1213,9 @@ background-color: rgba(0,0,0,0.5)!important;
 .message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
     background: transparent;
 }
+.mentioned-xhSam7:before {
+    background: var(--main-Gradient-colorAlphaMentioned2);
+}
+.mentioned-xhSam7 {
+    background: var(--main-Gradient-colorAlphaMentioned);
+}
