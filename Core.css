@@ -1210,3 +1210,6 @@ background-color: rgba(0,0,0,0.5)!important;
 .activity-11LB_k {
     background-color: rgba(0,0,0,.5)!important;
 }
+.message-2qnXI6.selected-2P5D_Z, .mouse-mode .message-2qnXI6:hover {
+    background: transparent;
+}
