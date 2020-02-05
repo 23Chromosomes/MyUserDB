@@ -1243,10 +1243,10 @@ background-color: rgba(0,0,0,0.5)!important;
     height: 0px;
 }
 .isUnread-3Ef-o9 {
-    border-color: rgba(0,0,0,0.3);
+    border-color: var(--background-modifier-accent);
 }
 .divider-JfaTT5 {
-    border-top: thin solid rgba(0,0,0,0.3);
+    border-top: thin solid var(--background-modifier-accent);
 }
 .wrapper-35wsBm {
     background: rgba(0,0,0,0.5);
