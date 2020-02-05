@@ -1251,3 +1251,11 @@ background-color: rgba(0,0,0,0.5)!important;
 .wrapper-35wsBm {
     background: rgba(0,0,0,0.5);
 }
+.unreadPill-2HyYtt {
+    left: 45%;
+    right: 50%;
+    border-radius: 10px;
+}
+.unreadPillCap-3_K2q2 {
+    display: none;
+}
