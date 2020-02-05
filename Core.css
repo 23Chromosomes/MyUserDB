@@ -1239,3 +1239,6 @@ background-color: rgba(0,0,0,0.5)!important;
 .messagesWrapper-3lZDfY {
     margin-bottom: 8px;
 }
+.scroller-3sQKXg:after {
+    height: 0px;
+}
