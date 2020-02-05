@@ -1242,3 +1242,9 @@ background-color: rgba(0,0,0,0.5)!important;
 .scroller-3sQKXg:after {
     height: 0px;
 }
+.isUnread-3Ef-o9 {
+    border-color: rgba(0,0,0,0.3);
+}
+.divider-JfaTT5 {
+    border-top: thin solid rgba(0,0,0,0.3);
+}
